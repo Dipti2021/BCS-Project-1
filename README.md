@@ -45,8 +45,8 @@ __MOBILE VIEW__
 
 
  ## Installations
-   * [The URL of the Github repo](https://github.com/Dipti2021/Vibe_Musical_DR)
-   * [The URL of the deployed application](https://dipti2021.github.io/Vibe_Musical_DR/)
+   * [The URL of the Github repo](https://github.com/Dipti2021/BCS-Project-1)
+   * [The URL of the deployed application](https://dipti2021.github.io/BCS-Project-1/)
  
  ## What can the app do?
  Here's a chart off all the functions that our web app is required to do
